@@ -1,0 +1,22 @@
+HELP DEMO v1.0 (Alpha)
+
+HELP DEMO v1.0 HelpHelp
+
+INSTRUCTIONS:
+
+press button see help
+
+FEATURES:
+
+Help button
+
+SUPPORT INFORMATION:
+/* APP NAME */ is developed by CJL.
+
+Jun Lae Cheong
+
+Phone: (+63)927-134-1034
+
+Email: jun.cheong@dlsu.edu.ph
+
+All Rights Reserved
